@@ -1,3 +1,4 @@
+![Screen Shot 2021-07-24 at 1 16 20 AM](https://user-images.githubusercontent.com/80420919/126857030-e9e252a9-9768-4c1e-9c95-703b13f8f728.png)
 # Project: A/B Testing for ShoeFly.com
 
 
